@@ -1,5 +1,7 @@
 package Package1;
-// Tyler Farid, CPS 2332 01
+/* Tyler Farid, CPS 2332 
+This code creates an array of random integers and uses different methods to sort, swap and return the array
+*/
 
 import java.util.Arrays;
 import java.util.Random;
